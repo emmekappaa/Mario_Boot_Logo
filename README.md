@@ -1,4 +1,4 @@
-# Mario-Boot-Logo
+# Mario-Boot-Logo / Linux Mint Logo
 
 HOW TO:
 
