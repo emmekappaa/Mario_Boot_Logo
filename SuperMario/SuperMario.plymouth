@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=SuperMario
+Description=plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/SuperMario
+ScriptFile=/usr/share/plymouth/themes/SuperMario/SuperMario.script
+
+
