@@ -1,4 +1,7 @@
-# Mario-Boot-Logo / Linux Mint Logo
+## Mario Boot Logo / Linux Mint Logo
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
 HOW TO:
 
